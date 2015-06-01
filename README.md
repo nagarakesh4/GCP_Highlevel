@@ -6,10 +6,9 @@ It is highly unimagenable to perform these operations now mainly because of the 
 And in 5 years from now this will look more insane! That takes me to explain what Google is doing on Cloud.
 
 
-#GoogleCloudPlatform solves the concern of managing physical servers at your own cost.
-GCP provides compute, storage, data analytics. 
+#GoogleCloudPlatform solves the concern of managing physical servers, databases and software.
 
-GCP has internally 4 categories of services that it provides to the developer.
+GCP provides 4 categories of services that enables developers for an efficient application development.
 1. Infrastructure: Google Compute Engine(GCE)- 
 This will help in abstracting the physical machines and provides a virtual machine to the user. Now the user need not be concer
 -ned about buying infrastructure of the machine such as setting up the Hardware, Operating System. This is also known as Infrastructure as a Service(IaaS). We need not buy anything for the hardware but we need to pay based on our usage - Pay as you go!

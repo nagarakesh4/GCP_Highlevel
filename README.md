@@ -10,8 +10,7 @@ And in 5 years from now this will look more insane! That takes me to explain wha
 
 GCP provides 4 categories of services that enables developers for an efficient application development.  
 1. Infrastructure: Google Compute Engine(GCE)   
-This will help in abstracting the physical machines and provides a virtual machine to the user. Now the user need not be concer
--ned about buying infrastructure of the machine such as setting up the Hardware, Operating System. This is also known as Infrastructure as a Service(IaaS). We need not buy anything for the hardware but we need to pay based on our usage - Pay as you go!  
+This will help in abstracting the physical machines and provides a virtual machine to the user. Now the user need not be concerned about buying infrastructure of the machine such as setting up the Hardware, Operating System. This is also known as Infrastructure as a Service(IaaS). We need not buy anything for the hardware but we need to pay based on our usage - Pay as you go!  
 2. Containers: Google Container Engine(GKE)  
 The containers layer is an abstraction on the top of Infrastructure(virtual machines). The operations(ops) of the provided virtual machines in the Infrastructure layer are taken care by the containers. Containers take care of running software without being concerned of the underlying hardware. Containers are deployed in the virtual machines. GKE enables developers to deploy their code on a cluster of machines using an open source project - Kubernetes.  
 3. Platform: Google App Engine(GAE)  

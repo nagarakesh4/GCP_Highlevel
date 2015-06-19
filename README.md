@@ -1,3 +1,5 @@
+With reference from I/O 2015.
+
 ## Google Cloud Platform Services - Highlevel
 
 There were times when companies/people order physical servers, manage their resources by contacting a provider.

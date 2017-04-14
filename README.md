@@ -8,7 +8,7 @@ It is highly unimagenable to perform these operations now mainly because of the 
 And in 5 years from now this will look more insane! That takes me to explain what Google is doing on Cloud.
 
 
-####GoogleCloudPlatform solves the concern of managing physical servers, databases and software.
+#### GoogleCloudPlatform solves the concern of managing physical servers, databases and software.
 
 GCP provides 4 categories of services that enables developers for an efficient application development.  
 1. Infrastructure: Google Compute Engine(GCE)   
